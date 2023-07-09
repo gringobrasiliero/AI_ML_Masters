@@ -1,0 +1,13 @@
+,Name,Small List (1000),"Medium List (10,000)","Large List (100,000)"
+0,Tim Sort - Increasing List,1.001358032,8.006811142,100.0912189
+1,Merge Sort - Increasing List,2.00176239,14.01305199,172.1560955
+2,Quick Sort - Increasing List,1.001119614,9.007692337,106.0965061
+3,Insertion Sort - Increasing List,0,1.000642776,8.007049561
+4,Tim Sort - Decreasing List,2.00176239,18.01657677,236.35149
+5,Merge Sort - Decreasing List,2.00176239,14.01281357,168.1530476
+6,Quick Sort - Decreasing List,1.000642776,9.008407593,110.1000309
+7,Insertion Sort - Decreasing List,50.04525185,5839.361668,586480.3984
+8,Tim Sort - Random List,2.002239227,20.01786232,263.2396221
+9,Merge Sort - Random List,2.002000809,23.02098274,282.2566032
+10,Quick Sort - Random List,1.000881195,14.00852203,167.1562195
+11,Insertion Sort - Random List,26.03363991,2995.193005,296315.2115

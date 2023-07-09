@@ -1,0 +1,24 @@
+def main():
+
+
+    num1 = ask_for_number("Enter the first Number: ")
+    num2 = ask_for_number("Enter the second Number: ")
+
+    add_result = num1 + num2
+    sub_result = num1 - num2
+
+    print(num1, " + ",  num2, " = ", add_result)
+    print(num1, " - ",  num2, " = ", sub_result)
+
+def ask_for_number(text):
+    not_number = True
+    while not_number: 
+        res = input(text)
+        try:
+            return float(res)        
+        except ValueError:
+            not_number = True
+            print("Please provide a number.\n")
+
+if __name__ == '__main__' : main()
+
