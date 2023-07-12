@@ -1,1 +1,1 @@
-First Commit
+This is a collection of Coursework completed through the Masters Degree Program for Artificial Intelligence and Machine Learning.
